@@ -2,4 +2,8 @@ hello, how are you
 
 can we meet tomorrow
 
+<<<<<<< HEAD
 no i can
+=======
+yes we can
+>>>>>>> master
